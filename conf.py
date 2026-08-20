@@ -185,7 +185,7 @@ html_static_path = ['nstatic','_build/html/_static/assets']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Oca_Documentation_Ecuador'
+htmlhelp_basename = 'Siati_Documentation'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -205,7 +205,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'Oca_Documentation_Ecuador.tex', u'Oca_Documentation_Ecuador',
+  ('index', 'Siati_Documentation.tex', u'Siati_Documentation',
    u'', 'manual')
 ]
 
@@ -235,7 +235,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'Documentacion_Odoo', u'Documentacion_Odoo',
+    ('index', 'Siati_Documentation', u'Siati_Documentation',
      [u'AIDRA'], 1)
 ]
 
@@ -249,8 +249,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'Documentacion', u'Documentacion',
-   u'Oca_Documentation_Ecuador', 'Documentación', 'Oca_Documentation_Ecuador',
+  ('index', 'Siati_Documentation', u'Siati_Documentation',
+   u'Siati_Documentation', 'Documentación', 'Siati_Documentation',
    'Miscellaneous'),
 ]
 
