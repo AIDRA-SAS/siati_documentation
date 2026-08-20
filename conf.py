@@ -49,9 +49,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'OCA Localización Ecuador'
+project = u'Siati_Documentation'
 
-copyright = u'2023,GPL'
+copyright = u'2027,GPL'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
